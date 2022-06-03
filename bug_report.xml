@@ -1,1 +1,9 @@
-
+<?xml version="1.0"?>
+<CAT>
+  <summary>Login page: the button Sign in is displaced after clicking on the page</summary>
+  <type>Bug</type>
+  <environment>Windows 10</environment>
+  <priority>Low</priority>
+  <severity>Trivial</severity>
+  <reporter>Oksana Rak</reporter>
+</CAT>
